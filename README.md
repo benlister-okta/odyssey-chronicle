@@ -1,2 +1,1 @@
-# odyssey-chronicle
-Archive and templates for the Odyseey Chronicle, the design system team's quarterly newsletter.
+This folder contains the template and source code for past issues of The Odyssey Chronicle, the design system team's quartertly newsletter.
